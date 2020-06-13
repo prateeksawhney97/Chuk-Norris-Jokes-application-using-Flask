@@ -1,1 +1,5 @@
-web: gunicorn -b :$PORT main:app
+entrypoint: "gunicorn -b :$PORT main:app"
+env: flex
+runtime: python
+runtime_config: 
+  python_version: 3
