@@ -4,6 +4,8 @@ A simple web application demonstrating the use of Data Acquisition using web API
 Extracted jokes from the Chuk Norris Database API i.e. http://api.icndb.com/jokes/{}. 
 Given a specific joke 'ID', the web application returns the joke for the corresponding joke ID. 
 
+Application deployed on Heroku - https://chuk-norris-joke.herokuapp.com/
+
 ## Screenshots
 
 ![Screenshot from 2020-06-13 19-57-21](https://user-images.githubusercontent.com/34116562/84571371-68a95a80-adb0-11ea-8933-ab816fa31e28.png)
