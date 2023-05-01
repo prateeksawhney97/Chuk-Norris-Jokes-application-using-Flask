@@ -1,5 +1,5 @@
 beautifulsoup4==4.8.2
-Flask==1.1.1
+Flask==2.3.2
 h5py==2.10.0
 html5lib==1.0.1
 json5==0.9.1
